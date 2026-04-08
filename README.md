@@ -11,6 +11,7 @@ Actualmente busco una oportunidad profesional orientada al desarrollo de softwar
 Me considero una persona responsable, constante y con muchas ganas de evolucionar profesionalmente hacia roles de desarrollo más centrados en programación moderna, sin perder el rigor y la visión global que me ha dado trabajar en entornos de producción reales.
 
 Quedo a su disposición para ampliar cualquier información y para una entrevista en la que pueda detallar mi experiencia y motivación.
+Adjunto enlave a mi cv. https://github.com/jcaballerod92/jcaballerod92/blob/main/Curriculum.ipynb
 
 Un saludo cordial,
 Jorge Caballero
